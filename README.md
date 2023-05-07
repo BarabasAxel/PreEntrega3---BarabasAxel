@@ -31,3 +31,5 @@ Tambien se utiliza el metodo toLocaleString() para formatear el resultado de la 
 Dejo estos comentarios porque son las cosas que se pedian en esta entrega y como ven, (algunas cosas habian dicho que no 
 hacian falta ponerlas) quise intentar agregar todas las opciones, metodos y propiedades que explicaron en clase.
 Tambien corregi los puntos de la entrega anterior.
+Dejame en los comentarios si esta bien la cantidad de contenido en esta entrega, porque la verdad no sabia que mas hacer.
+Para la proxima entrega voy a agregar una tabla para ver las conversiones de las criptomonedas y una opcion para agregar mas criptomonedas.
