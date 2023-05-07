@@ -31,6 +31,7 @@ form.addEventListener("submit", async function (event) {
   const containerAnswer = document.querySelector(".container-answer");
   containerAnswer.innerHTML = `
     <p class="result">El valor de 1 ${criptomoneda.toUpperCase()} en ${moneda.toUpperCase()} es de: $${exchangeRate.toLocaleString()}</p>
+    <p>Última Actualización: <span>${new Date().toLocaleString()}</span></p>
   `;
 });
 
